@@ -1,0 +1,104 @@
+{
+  "_buildCommand2" : {
+    "command" : "preview"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "PLAYGROUND-PRODUCT:_______________________Sources-PLAYGROUND-TARGET:/Users/junbok/Desktop/GitHub/Programmers/CodingTest/Lv.1/가운데 글자 가져오기.playground",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator15.5",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/junbok/Desktop/GitHub/Programmers/CodingTest/Lv.1/DerivedData/가운데 글자 가져오기/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/junbok/Desktop/GitHub/Programmers/CodingTest/Lv.1/DerivedData/가운데 글자 가져오기/Build/Products",
+          "derivedDataPath" : "/Users/junbok/Desktop/GitHub/Programmers/CodingTest/Lv.1/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/junbok/Desktop/GitHub/Programmers/CodingTest/Lv.1/DerivedData/가운데 글자 가져오기/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/junbok/Desktop/GitHub/Programmers/CodingTest/Lv.1/DerivedData/가운데 글자 가져오기/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/junbok/Desktop/GitHub/Programmers/CodingTest/Lv.1/DerivedData/가운데 글자 가져오기/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.5",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/junbok/Desktop/GitHub/Programmers/CodingTest/Lv.1/DerivedData/가운데 글자 가져오기/Build/Intermediates.noindex/Playgrounds/______________________/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/junbok/Desktop/GitHub/Programmers/CodingTest/Lv.1/DerivedData/가운데 글자 가져오기/Build/Intermediates.noindex/Playgrounds/______________________/Intermediates.noindex",
+              "SYMROOT" : "/Users/junbok/Desktop/GitHub/Programmers/CodingTest/Lv.1/DerivedData/가운데 글자 가져오기/Build/Intermediates.noindex/Playgrounds/______________________/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "A9BAD072-A207-4B3E-BAFA-420DFA443BBC",
+              "TARGET_DEVICE_MODEL" : "iPad6,4",
+              "TARGET_DEVICE_OS_VERSION" : "15.5",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/junbok/Desktop/GitHub/Programmers/CodingTest/Lv.1/가운데 글자 가져오기.playground",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/junbok/Desktop/GitHub/Programmers/CodingTest/Lv.1/DerivedData/가운데 글자 가져오기/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/junbok/Desktop/GitHub/Programmers/CodingTest/Lv.1/DerivedData/가운데 글자 가져오기/Build/Products",
+      "derivedDataPath" : "/Users/junbok/Desktop/GitHub/Programmers/CodingTest/Lv.1/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/junbok/Desktop/GitHub/Programmers/CodingTest/Lv.1/DerivedData/가운데 글자 가져오기/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/junbok/Desktop/GitHub/Programmers/CodingTest/Lv.1/DerivedData/가운데 글자 가져오기/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/junbok/Desktop/GitHub/Programmers/CodingTest/Lv.1/DerivedData/가운데 글자 가져오기/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.5",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "A9BAD072-A207-4B3E-BAFA-420DFA443BBC",
+          "TARGET_DEVICE_MODEL" : "iPad6,4",
+          "TARGET_DEVICE_OS_VERSION" : "15.5",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

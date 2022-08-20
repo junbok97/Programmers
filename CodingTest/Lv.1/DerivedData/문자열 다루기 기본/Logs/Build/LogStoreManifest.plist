@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>B94F4EF6-DF24-4FA8-95A6-3361B6D4F426</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B94F4EF6-DF24-4FA8-95A6-3361B6D4F426.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>문자열 다루기 기본</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>문자열 다루기 기본 (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build 문자열 다루기 기본 (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>682693091.07483304</real>
+			<key>timeStoppedRecording</key>
+			<real>682693091.12866795</real>
+			<key>title</key>
+			<string>Build 문자열 다루기 기본 (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>B94F4EF6-DF24-4FA8-95A6-3361B6D4F426</string>
+		</dict>
+		<key>DEB9EAF1-0D84-4BA8-AC60-3A5BEAB37FA2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DEB9EAF1-0D84-4BA8-AC60-3A5BEAB37FA2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>문자열 다루기 기본</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>문자열 다루기 기본 (Playground)</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build 문자열 다루기 기본 (Playground)</string>
+			<key>timeStartedRecording</key>
+			<real>682692229.30188203</real>
+			<key>timeStoppedRecording</key>
+			<real>682692229.36296403</real>
+			<key>title</key>
+			<string>Build 문자열 다루기 기본 (Playground)</string>
+			<key>uniqueIdentifier</key>
+			<string>DEB9EAF1-0D84-4BA8-AC60-3A5BEAB37FA2</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
