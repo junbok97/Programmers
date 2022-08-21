@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F981BA0228F2C27F6052B10FEF50FED344E5CB2C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F981BA0228F2C27F6052B10FEF50FED344E5CB2C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "10138F7E-F78B-48E2-999B-C1EB04821E11",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F981BA0228F2C27F6052B10FEF50FED344E5CB2C" : "Programmers\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "3진법 뒤집기",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CodingTest\/Lv.1\/3진법 뒤집기.playground",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/junbok97\/Programmers.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F981BA0228F2C27F6052B10FEF50FED344E5CB2C"
+    }
+  ]
+}
