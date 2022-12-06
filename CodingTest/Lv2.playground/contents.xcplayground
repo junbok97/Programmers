@@ -1,14 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <playground version='6.0' target-platform='macos' buildActiveScheme='true' importAppTypes='true'>
     <pages>
+        <page name='[1차] 캐시'/>
         <page name='가장 큰 수'/>
-        <page name='올바른 괄호'/>
-        <page name='이진 변환 반복하기'/>
-        <page name='최댓값과 최솟값'/>
-        <page name='JadenCase 문자열 만들기'/>
-        <page name='최솟값 만들기'/>
-        <page name='피보나치 수'/>
+        <page name='괄호 회전하기'/>
+        <page name='기능개발'/>
+        <page name='뉴스 클러스터링'/>
         <page name='다음 큰 숫자'/>
-        <page name='영어 끝말잇기'/>
+        <page name='멀리 뛰기'/>
+        <page name='영어 끝말잇기'/>
+        <page name='예상 대진표'/>
+        <page name='올바른 괄호'/>
+        <page name='위장'/>
+        <page name='이진 변환 반복하기'/>
+        <page name='점프와 순간 이동'/>
+        <page name='짝지어 제거하기'/>
+        <page name='최댓값과 최솟값'/>
+        <page name='최솟값 만들기'/>
+        <page name='카펫'/>
+        <page name='튜플'/>
+        <page name='피보나치 수'/>
+        <page name='행렬의 곱셈'/>
+        <page name='H-Index'/>
+        <page name='JadenCase 문자열 만들기'/>
+        <page name='n^2 배열 자르기'/>
+        <page name='N개의 최소공배수'/>
+        <page name='프린터'/>
+        <page name='k진수에서 소수 개수 구하기'/>
+        <page name='타겟넘버'/>
+        <page name='주차 요금 계산'/>
     </pages>
 </playground>
