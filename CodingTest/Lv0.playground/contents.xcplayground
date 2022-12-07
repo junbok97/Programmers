@@ -93,6 +93,9 @@
         <page name='n의 배수 고르기'/>
         <page name='다항식 더하기'/>
         <page name='다음에 올 숫자'/>
-        <page name='OX퀴즈'/>
+        <page name='OX퀴즈'/>
+        <page name='분수의 덧셈'/>
+        <page name='연속된 수의 합'/>
+        <page name='안전지대'/>
     </pages>
 </playground>
